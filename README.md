@@ -1,0 +1,2 @@
+# TeluskoDjangoTutorial
+Test project  - Travello
